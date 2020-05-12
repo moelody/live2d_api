@@ -1,0 +1,53 @@
+{
+    "models": [
+		[
+			"gfl/bg/cg1",
+			"gfl/bg/cg3",
+			"gfl/bg/cg4",
+			"gfl/bg/cg5",
+			"gfl/bg/cg6",
+			"gfl/bg/cg7"
+		],
+		[
+			"gfl/fairy/air_attack",
+			"gfl/fairy/airborne",
+			"gfl/fairy/armor",
+			"gfl/fairy/command",
+			"gfl/fairy/fighting",
+			"gfl/fairy/fortress",
+			"gfl/fairy/golden",
+			"gfl/fairy/shield",
+			"gfl/fairy/target"
+		],
+        ["gfl/gun/79type_1402/normal","gfl/gun/79type_1402/destroy", 
+        "gfl/gun/88type_1809/normal","gfl/gun/88type_1809/destroy",
+        "gfl/gun/95type_405/normal","gfl/gun/95type_405/destroy"],
+        
+        ["gfl/gun/95type_3702/normal","gfl/gun/95type_3702/destroy",
+        "gfl/gun/97type_406/normal","gfl/gun/97type_406/destroy",
+        "gfl/gun/97type_3703/normal","gfl/gun/97type_3703/destroy"],
+        
+        [
+            "gfl/old/88type_1809/normal", "gfl/old/88type_1809/destroy",
+            "gfl/old/AK12/normal", "gfl/old/AK12/destroy",
+            "gfl/old/AN-94/normal", "gfl/old/AN-94/destroy",
+            "gfl/old/HK416_805/normal", "gfl/old/HK416_805/destroy",
+            "gfl/old/kp31/normal", "gfl/old/kp31/destroy",
+            "gfl/old/kp31_/normal", "gfl/old/kp31_/destroy",
+            "gfl/old/rfb_christmas/normal", "gfl/old/rfb_christmas/destory",
+            "gfl/old/rfb_1601/normal", "gfl/old/rfb_1601/destroy",
+            "gfl/old/m1928a1/normal", "gfl/old/m1928a1/destory"
+        ]
+		
+    ],
+    "messages": [
+        "我是一个背景哦 ~",
+        "我是一个Q炸鸡哦 ~",
+        "我是一个gun/motions哦 ~",
+        "我是一个gun/nomotions哦 ~",
+        "我是一个old/哦 ~",
+        "我是一个95type_3702哦 ~",
+        "我是一个97type_406哦 ~",
+        "我是一个97type_3703哦 ~"
+    ]
+}

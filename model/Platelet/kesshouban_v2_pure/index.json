@@ -1,0 +1,22 @@
+{
+	"type": "Live2D Model Setting",
+	"name": "model",
+	"model": "model.moc",
+	"textures": [
+		"../kesshouban/general/textures/texture_00.png"
+	],
+	"motions":{
+		"idle":[
+			{"file":"../kesshouban/general/motions/Idle.mtn"}
+		],
+        "sleepy":[
+            {"file":"../kesshouban/general/motions/Nemui.mtn"}
+        ],
+		"flick_head":[
+			{"file":"../kesshouban/general/motions/Anone_Synced.mtn"}
+		],
+		"tap_body":[
+			{"file":"../kesshouban/general/motions/Dance.mtn"}
+		]
+	}
+}

@@ -6,8 +6,8 @@
     "textures/texture_01.png"
   ],
   "layout": {
-    "center_x": 0.0,
-    "center_y": 0.0,
+    "center_x": 0.15,
+    "center_y": -1.0,
     "width": 2.0
   },
   "motions": {

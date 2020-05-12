@@ -4,10 +4,11 @@ isset($_GET['id']) ? $modelId = (int)$_GET['id'] : exit('error');
 require '../tools/modelList.php';
 require '../tools/jsonCompatible.php';
 
+$listName = isset($_GET['json']) ? $_GET['json'] : 'model_list';
 $modelList = new modelList();
 $jsonCompatible = new jsonCompatible();
 
-$modelList = $modelList->get_list();
+$modelList = $modelList->get_list($listName);
 
 $modelRandNewId = true;
 while ($modelRandNewId) {

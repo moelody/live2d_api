@@ -3,10 +3,11 @@
 require '../tools/modelList.php';
 require '../tools/modelTextures.php';
 
+$listName = isset($_GET['json']) ? $_GET['json'] : 'model_list';
 $modelList = new modelList();
 $modelTextures = new modelTextures();
 
-$modelList = $modelList->get_list();
+$modelList = $modelList->get_list($listName);
 $modelList = $modelList['models'];
 
 foreach ($modelList as $modelName) {
