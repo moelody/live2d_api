@@ -4,6 +4,11 @@
 	"textures":[
 		"model.1024/texture_00.png"
 	],
+    "layout":{
+        "center_x": 0,
+        "center_y": 0,
+        "width": 1.6
+    },
 	"motions":{
 		"":[
 			{"file":"motions/touch_1.mtn"},

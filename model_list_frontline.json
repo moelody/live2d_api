@@ -19,13 +19,119 @@
 			"gfl/fairy/shield",
 			"gfl/fairy/target"
 		],
-        ["gfl/gun/79type_1402/normal","gfl/gun/79type_1402/destroy", 
-        "gfl/gun/88type_1809/normal","gfl/gun/88type_1809/destroy",
-        "gfl/gun/95type_405/normal","gfl/gun/95type_405/destroy"],
         
-        ["gfl/gun/95type_3702/normal","gfl/gun/95type_3702/destroy",
+        [
+        "gfl/gun/79type_1402/normal","gfl/gun/79type_1402/destroy", 
+        "gfl/gun/88type_1809/normal","gfl/gun/88type_1809/destroy",
+        "gfl/gun/95type_405/normal","gfl/gun/95type_405/destroy",
+        "gfl/gun/98k_4301/normal","gfl/gun/98k_4301/destroy",
+        "gfl/gun/aek999_1505/normal","gfl/gun/aek999_1505/destroy"
+        ],
+        [
+        "gfl/gun/95type_3702/normal","gfl/gun/95type_3702/destroy",
         "gfl/gun/97type_406/normal","gfl/gun/97type_406/destroy",
-        "gfl/gun/97type_3703/normal","gfl/gun/97type_3703/destroy"],
+        "gfl/gun/97type_3703/normal","gfl/gun/97type_3703/destroy",
+        "gfl/gun/aa12_2403/normal","gfl/gun/aa12_2403/destroy",
+        "gfl/gun/ads_3601/normal","gfl/gun/ads_3601/destroy"
+        ],
+        [
+        "gfl/gun/ak12_3302/normal","gfl/gun/ak12_3302/destroy",
+        "gfl/gun/an94_3303/normal","gfl/gun/an94_3303/destroy",
+        "gfl/gun/ar15mod/normal","gfl/gun/ar15mod/destroy",
+        "gfl/gun/carcano1891_2201/normal","gfl/gun/carcano1891_2201/destroy",
+        "gfl/gun/carcano1891_2905/normal","gfl/gun/carcano1891_2905/destroy"
+        ],
+        [
+        "gfl/gun/carcano1938_2202/normal","gfl/gun/carcano1938_2202/destroy",
+        "gfl/gun/carcano1938_2904/normal","gfl/gun/carcano1938_2904/destroy",
+        "gfl/gun/cbjms_3503/normal","gfl/gun/cbjms_3503/destroy",
+        "gfl/gun/contender_2302/normal","gfl/gun/contender_2302/destroy",
+        "gfl/gun/dp12_4201/normal","gfl/gun/dp12_4201/destroy"
+        ],
+        [
+        "gfl/gun/dsr50_1801/normal","gfl/gun/dsr50_1801/destroy",
+        "gfl/gun/dsr50_2101/normal","gfl/gun/dsr50_2101/destroy",
+        "gfl/gun/fn57_2203/normal","gfl/gun/fn57_2203/destroy",
+        "gfl/gun/g11_1602/normal","gfl/gun/g11_1602/destroy",
+        "gfl/gun/g11_4102/normal","gfl/gun/g11_4102/destroy"
+        ],
+        [
+        "gfl/gun/g36_1904/normal","gfl/gun/g36_1904/destroy",
+        "gfl/gun/g36_2407/normal","gfl/gun/g36_2407/destroy",
+        "gfl/gun/g36c_1202/normal","gfl/gun/g36c_1202/destroy",
+        "gfl/gun/g36c_3103/normal","gfl/gun/g36c_3103/destroy",
+        "gfl/gun/g36c_3802/normal","gfl/gun/g36c_3802/destroy"
+        ],
+        [
+        "gfl/gun/g41_2401/normal","gfl/gun/g41_2401/destroy",
+        "gfl/gun/gelina/normal",
+        "gfl/gun/grizzly_2102/normal","gfl/gun/grizzly_2102/destroy",
+        "gfl/gun/hk416_805/normal","gfl/gun/hk416_805/destroy",
+        "gfl/gun/hk416_3401/normal","gfl/gun/hk416_3401/destroy"
+        ],
+        [
+        "gfl/gun/hkcaws_4003/normal","gfl/gun/hkcaws_4003/destroy",
+        "gfl/gun/k2_3301/normal","gfl/gun/k2_3301/destroy",
+        "gfl/gun/kp31_310/normal","gfl/gun/kp31_310/destroy",
+        "gfl/gun/kp31_1103/normal","gfl/gun/kp31_1103/destroy",
+        "gfl/gun/kp31_3101/normal","gfl/gun/kp31_3101/destroy"
+        ],
+        [
+        "gfl/gun/lewis_3502/normal","gfl/gun/lewis_3502/destroy",
+        "gfl/gun/lewis_4001/normal","gfl/gun/lewis_4001/destroy",
+        "gfl/gun/m4_sopmod_iimod/normal","gfl/gun/m4_sopmod_iimod/destroy",
+        "gfl/gun/m4a1mod/normal","gfl/gun/m4a1mod/destroy",
+        "gfl/gun/m590_1806/normal","gfl/gun/m590_1806/destroy"
+        ],
+        [
+        "gfl/gun/m950a_2303/normal","gfl/gun/m950a_2303/destroy",
+        "gfl/gun/m950a_4302/normal","gfl/gun/m950a_4302/destroy",
+        "gfl/gun/m1903_5/normal","gfl/gun/m1903_5/destroy",
+        "gfl/gun/m1928a1_1501/normal","gfl/gun/m1928a1_1501/destroy",
+        "gfl/gun/mdr_2603/normal","gfl/gun/mdr_2603/destroy"
+        ],
+        [
+        "gfl/gun/mk23_3105/normal","gfl/gun/mk23_3105/destroy",
+        "gfl/gun/mlemk1_604/normal","gfl/gun/mlemk1_604/destroy",
+        "gfl/gun/ntw20_2301/normal","gfl/gun/ntw20_2301/destroy",
+        "gfl/gun/ots14_1203/normal","gfl/gun/ots14_1203/destroy",
+        "gfl/gun/ots14_3001/normal","gfl/gun/ots14_3001/destroy"
+        ],
+        [
+        "gfl/gun/p22_3902/normal","gfl/gun/p22_3902/destroy",
+        "gfl/gun/p90_2802/normal","gfl/gun/p90_2802/destroy",
+        "gfl/gun/pa15_3701/normal","gfl/gun/pa15_3701/destroy",
+        "gfl/gun/pa15_4202/normal","gfl/gun/pa15_4202/destroy",
+        "gfl/gun/pkp_1201/normal","gfl/gun/pkp_1201/destroy"
+        ],
+        [
+        "gfl/gun/px4storm_2801/normal","gfl/gun/px4storm_2801/destroy",
+        "gfl/gun/qbu88_3801/normal","gfl/gun/qbu88_3801/destroy",
+        "gfl/gun/r93_3501/normal","gfl/gun/r93_3501/destroy",
+        "gfl/gun/rfb_1601/normal","gfl/gun/rfb_1601/destroy",
+        "gfl/gun/saiga12_3901/normal","gfl/gun/saiga12_3901/destroy"
+        ],
+        [
+        "gfl/gun/sat8_2601/normal","gfl/gun/sat8_2601/destroy",
+        "gfl/gun/sat8_3602/normal","gfl/gun/sat8_3602/destroy",
+        "gfl/gun/sr3mp_3704/normal","gfl/gun/sr3mp_3704/destroy",
+        "gfl/gun/sr3mp_4101/normal","gfl/gun/sr3mp_4101/destroy",
+        "gfl/gun/tac50_2602/normal","gfl/gun/tac50_2602/destroy"
+        ],
+        [
+        "gfl/gun/type64-ar_2901/normal","gfl/gun/type64-ar_2901/destroy",
+        "gfl/gun/type88_3504/normal","gfl/gun/type88_3504/destroy",
+        "gfl/gun/ump9_3404/normal","gfl/gun/ump9_3404/destroy",
+        "gfl/gun/ump45_3403/normal","gfl/gun/ump45_3403/destroy",
+        "gfl/gun/ump45mod/normal","gfl/gun/ump45mod/destroy"
+        ],
+        [
+        "gfl/gun/vector_1901/normal","gfl/gun/vector_1901/destroy",
+        "gfl/gun/wa2000_6/normal","gfl/gun/wa2000_6/destroy",
+        "gfl/gun/wa2000_306/normal","gfl/gun/wa2000_306/destroy",
+        "gfl/gun/welrod_1401/normal","gfl/gun/welrod_1401/destroy",
+        "gfl/gun/zastavam21_4304/normal","gfl/gun/zastavam21_4304/destroy"
+        ],
         
         [
             "gfl/old/88type_1809/normal", "gfl/old/88type_1809/destroy",
@@ -42,12 +148,23 @@
     ],
     "messages": [
         "我是一个背景哦 ~",
-        "我是一个Q炸鸡哦 ~",
-        "我是一个gun/motions哦 ~",
-        "我是一个gun/nomotions哦 ~",
-        "我是一个old/哦 ~",
-        "我是一个95type_3702哦 ~",
-        "我是一个97type_406哦 ~",
-        "我是一个97type_3703哦 ~"
+        "我是一个fairy哦 ~",
+        "我是一个gun/1哦 ~",
+        "我是一个gun/2哦 ~",
+        "我是一个gun/3哦 ~",
+        "我是一个gun/4哦 ~",
+        "我是一个gun/5哦 ~",
+        "我是一个gun/6哦 ~",
+        "我是一个gun/7哦 ~",
+        "我是一个gun/8哦 ~",
+        "我是一个gun/9哦 ~",
+        "我是一个gun/10哦 ~",
+        "我是一个gun/11哦 ~",
+        "我是一个gun/12哦 ~",
+        "我是一个gun/13哦 ~",
+        "我是一个gun/14哦 ~",
+        "我是一个gun/15哦 ~",
+        "我是一个gun/16哦 ~",
+        "我是一个old/哦 ~"
     ]
 }
