@@ -30,6 +30,9 @@ if (is_array($modelName)) {
 foreach ($json['textures'] as $k => $texture)
 	$json['textures'][$k] = '../model/' . $modelName . '/' . $texture;
 
+if (is_array($json['model']))
+    $json['model'] = $json['model'][rand(0, count($json['model'])-1)+1];
+
 $json['model'] = '../model/'.$modelName.'/'.$json['model'];
 if (isset($json['pose'])) $json['pose'] = '../model/'.$modelName.'/'.$json['pose'];
 if (isset($json['physics'])) $json['physics'] = '../model/'.$modelName.'/'.$json['physics'];
